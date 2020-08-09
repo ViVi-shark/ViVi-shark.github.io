@@ -1,2 +1,2 @@
-# ViVi-shark.github.io
-for GitHub Pages
+# Shark Storming
+～ さめあらし ～
